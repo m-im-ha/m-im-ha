@@ -3,12 +3,13 @@ Hi 👋 My name is Imran
 
 A Developer 
 -----------------------------
+# 💫 About Me:
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [mdimranhossen.vercel](https://mdimranhossen.vercel.app/)
 * ✉️  You can contact me at [imranhossen987654@gmail.com](mailto:imranhossen987654@gmail.com)
 * 🚀  I'm currently working on a MERN project, [DailyDish](https://dailydish-1f0f4.web.app/)
-* 🧠  I'm learning TypeScript & Java.
+* 🧠  I'm currently learning TypeScript & Java.
 * 🤝  I'm open to collaborating on exciting projects.
 
 ### Skills
