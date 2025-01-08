@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="200" src="https://github.com/m-im-ha/m-im-ha/blob/main/github_banner.png"  />
+</div>
+
 Hi 👋 My name is Imran
 ===============================
 
