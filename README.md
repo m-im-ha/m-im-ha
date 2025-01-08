@@ -9,6 +9,7 @@ A Developer
 -----------------------------
 # 💫 About Me:
 
+* 💼 I am a self-taught developer passionate about building user-friendly web applications. My tech stack includes JavaScript, React.js. Currently, I am digging deep into the MERN stack (MongoDB, Express.js, React.js, Node.js) to enhance my backend and full-stack development skills and I'm familiar with TypeScript, Mongoose, Java.
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [mdimranhossen.vercel](https://mdimranhossen.vercel.app/)
 * ✉️  You can contact me at [imranhossen987654@gmail.com](mailto:imranhossen987654@gmail.com)
