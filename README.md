@@ -42,8 +42,18 @@ A Developer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  ![Tailwind](icons/tailwindss.png) ![DaisyUI](icons/daisyui.png) ![Mongoose](icons/mongoose.png) ![Zod](icons/zod.png) ![Postman](icons/postman.png)
+  <img width="12" />
+  <img src="icons/tailwindss.png" height="40" alt="tailwind logo" />
+  <img width="12" />
+  <img src="icons/daisyui.png" height="40" alt="daisyui logo" />
+  <img width="12" />
+  <img src="icons/mongoose.png" height="40" alt="mongoose logo" />
+  <img width="12" />
+  <img src="icons/zod.png" height="40" alt="zod logo" />
+  <img width="12" />
+  <img src="icons/postman.png" height="40" alt="postman logo" />
 </div>
+
 
 
 ### Socials
