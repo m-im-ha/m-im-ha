@@ -17,6 +17,7 @@ A Developer
 * 🧠  I'm currently learning TypeScript & Nextjs.
 * 🤝  I'm open to collaborating on exciting projects.
 * 👩‍💻  I often enjoy tackling JavaScript coding challenges from codewars, [My Profile](https://www.codewars.com/users/m_im_ha)
+![](https://komarev.com/ghpvc/?username=m-im-ha&color=green)
 
 ### Skills
 
