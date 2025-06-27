@@ -9,7 +9,7 @@ A Developer ![](https://komarev.com/ghpvc/?username=m-im-ha&color=green)
 -----------------------------
 # 💫 About Me:
 
-* 💼 I am a self-taught developer passionate about building user-friendly web applications. My tech stack includes JavaScript, React.js. Currently, I am digging deep into the MERN stack (MongoDB, Express.js, React.js, Node.js) to enhance my backend and full-stack development skills and I'm familiar with TypeScript, Mongoose, Java.
+* 💼 I’m a self-taught full-stack developer passionate about creating clean, user-friendly web applications. I enjoy building both intuitive user interfaces and robust backend systems, and I'm continuously learning to improve my skills and deliver better digital experiences.
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [mdimranhossen.vercel](https://mdimranhossen.vercel.app/)
 * ✉️  You can contact me at [imranhossen987654@gmail.com](mailto:imranhossen987654@gmail.com)
