@@ -5,7 +5,7 @@
 Hi 👋 My name is Imran
 ===============================
 
-A Developer 
+A Developer ![](https://komarev.com/ghpvc/?username=m-im-ha&color=green)
 -----------------------------
 # 💫 About Me:
 
@@ -16,6 +16,7 @@ A Developer
 * 🚀  I'm currently working on a full-stack project.
 * 🧠  I'm currently learning Nestjs.
 * 🤝  I'm open to collaborating on exciting projects.
+* 👩‍💻  I often enjoy tackling JavaScript coding challenges from codewars, [My Profile](https://www.codewars.com/users/m_im_ha)
 
 ### 🧰 Tech Stack & Tools
 
