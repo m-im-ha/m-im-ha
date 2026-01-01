@@ -9,25 +9,22 @@ A Developer ![](https://komarev.com/ghpvc/?username=m-im-ha&color=green)
 -----------------------------
 # 💫 About Me:
 
-* 💼 I’m a self-taught full-stack developer passionate about creating clean, user-friendly web applications. I enjoy building both intuitive user interfaces and robust backend systems, and I'm continuously learning to improve my skills and deliver better digital experiences.
+* 💼 I’m a self-taught software developer passionate about creating clean, user-friendly web applications. I enjoy building both intuitive user interfaces and robust backend systems, and I'm continuously learning to improve my skills and deliver better digital experiences.
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [mdimranhossen.vercel](https://mdimranhossen.vercel.app/)
 * ✉️  You can contact me at [imranhossen987654@gmail.com](mailto:imranhossen987654@gmail.com)
 * 🚀  I'm currently working on a full-stack project.
-* 🧠  I'm currently learning Nestjs.
+* 🧠  I'm currently learning about systems, devOps, rust.
 * 🤝  I'm open to collaborating on exciting projects.
-* 👩‍💻  I often enjoy tackling JavaScript/TypeScript coding challenges from codewars, [My Profile](https://www.codewars.com/users/m_im_ha)
+* 👩‍💻  I often enjoy tackling DSA challenges from leetcode, [My Profile](https://leetcode.com/u/mimha/)
 
 ### 🧰 Tech Stack & Tools
 
 **Languages:**  
-`JavaScript` • `TypeScript`
+`Python` • `Go` • `JavaScript` • `TypeScript` • `Rust`
 
-**Frontend:**  
-`React.js` • `Next.js` • `React Router` • `Redux Toolkit` • `Zustand` •  `Tailwind CSS` • `ShadCN/UI` • `Daisy UI` • `figma`
-
-**Backend:**  
-`Node.js` • `Express.js` • `Hono`
+**Frameworks / Libraries:**  
+`Node.js` • `Express.js` • `Hono` • `React.js` • `Next.js` • `React Router` • `Redux Toolkit` •  `Tailwind CSS` • `ShadCN/UI` • `Daisy UI` • `figma`
 
 **Database & ORM:**  
 `PostgreSQL` • `Prisma` • `MongoDB` • `Mongoose`
