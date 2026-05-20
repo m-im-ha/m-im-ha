@@ -13,7 +13,7 @@ A Developer ![](https://komarev.com/ghpvc/?username=m-im-ha&color=green)
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [mdimranhossen.vercel](https://mdimranhossen.vercel.app/)
 * ✉️  You can contact me at [mdhsn221@gmail.com](mailto:imranhossen987654@gmail.com)
-* 🚀  I'm currently working on a full-stack project.
+* 🚀  I'm currently working on my ai SaaS [alnairnote.com](https://alnairnote.com) which is an ai based note taking platform.
 * 🧠  I'm currently learning about systems, devOps, rust.
 * 🤝  I'm open to collaborating on exciting projects.
 * 👩‍💻  I often enjoy tackling DSA challenges from leetcode, [My Profile](https://leetcode.com/u/mimha/)
