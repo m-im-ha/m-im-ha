@@ -12,7 +12,7 @@ A Developer ![](https://komarev.com/ghpvc/?username=m-im-ha&color=green)
 * 💼 I’m a self-taught software developer passionate about creating clean, user-friendly web applications. I enjoy building both intuitive user interfaces and robust backend systems, and I'm continuously learning to improve my skills and deliver better digital experiences.
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [mdimranhossen.vercel](https://mdimranhossen.vercel.app/)
-* ✉️  You can contact me at [imranhossen987654@gmail.com](mailto:imranhossen987654@gmail.com)
+* ✉️  You can contact me at [mdhsn221@gmail.com](mailto:imranhossen987654@gmail.com)
 * 🚀  I'm currently working on a full-stack project.
 * 🧠  I'm currently learning about systems, devOps, rust.
 * 🤝  I'm open to collaborating on exciting projects.
@@ -21,13 +21,13 @@ A Developer ![](https://komarev.com/ghpvc/?username=m-im-ha&color=green)
 ### 🧰 Tech Stack & Tools
 
 **Languages:**  
-`Python` • `Go` • `JavaScript` • `TypeScript` • `Rust`
+`Python` • `Go` • `JavaScript` • `TypeScript` • `Rust` • `C`
 
 **Frameworks / Libraries:**  
-`Node.js` • `Express.js` • `Hono` • `React.js` • `Next.js` • `React Router` • `Redux Toolkit` •  `Tailwind CSS` • `ShadCN/UI` • `Daisy UI` • `figma`
+`Node.js` • `Express.js` • `Hono` • `React.js` • `Next.js` • `React Router` • `Zustand` • `Redux Toolkit` •  `Tailwind CSS` • `ShadCN/UI` • `Daisy UI` • `figma`
 
 **Database & ORM:**  
-`PostgreSQL` • `Prisma` • `MongoDB` • `Mongoose`
+`PostgreSQL` • `Prisma` • `MongoDB` • `Mongoose` • `Supabase` • `NeonDB` • `Drizzle` 
 
 **Authentication:**  
 `NextAuth.js` • `Firebase Auth` • `JWT` • `Zod`
@@ -36,7 +36,7 @@ A Developer ![](https://komarev.com/ghpvc/?username=m-im-ha&color=green)
 `Turborepo` • `Vite` • `ESLint` • `Prettier` • `npm` • `pnpm` • `Postman`
 
 **Version Control & Deployment:**  
-`Git` • `GitHub` • `Vercel` • `netlify`
+`Git` • `GitHub` • `Vercel` • `netlify` • `Railway` • `Cloudflare`
 
 
 
