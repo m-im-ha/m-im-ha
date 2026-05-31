@@ -103,8 +103,17 @@ An AI-based note-taking app that helps you capture, organize, and make sense of 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=m-im-ha&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-im-ha&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m-im-ha&theme=radical" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=m-im-ha&theme=radical" alt="Repos per Language" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=m-im-ha&theme=radical" alt="Most Commit Language" />
+</div>
+
+<div align="center">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=m-im-ha&theme=radical" alt="Stats" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=m-im-ha&theme=radical&utcOffset=6" alt="Productive Time" />
 </div>
 
 <div align="center">
