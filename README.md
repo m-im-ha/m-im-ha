@@ -21,7 +21,7 @@
 Self-taught software developer from **Dhaka, Bangladesh** 🇧🇩 who loves turning ideas into real, shipped products. I build full-stack web apps end to end — from intuitive UIs to solid backends — and I ship fast.
 
 - 🛠️ I build and ship projects as an **indie hacker**
-- 🌱 Currently going deep on **systems, DevOps, and Rust**
+- 🌱 Currently going deep on **systems and DevOps**
 - 🧠 I sharpen problem-solving with **DSA challenges** on [LeetCode](https://leetcode.com/u/mimha/)
 - 🤝 Open to collaborating on ambitious projects
 - 📫 Reach me at **mdhsn221@gmail.com**
@@ -45,7 +45,6 @@ An AI-based note-taking app that helps you capture, organize, and make sense of 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
 **Frameworks & Libraries**
