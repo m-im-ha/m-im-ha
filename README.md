@@ -2,7 +2,7 @@
 
 # Hi, I'm Imran 👋
 
-### Indie hacker — I build and ship products.
+### Learning software engineering, one project at a time.
 
 <p>
   <a href="https://mdimranhossen.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -18,9 +18,9 @@
 
 ## 🚀 About Me
 
-Self-taught software developer from **Dhaka, Bangladesh** 🇧🇩 who loves turning ideas into real, shipped products. I build full-stack web apps end to end — from intuitive UIs to solid backends — and I ship fast.
+Self-taught developer from **Dhaka, Bangladesh** 🇧🇩, learning software engineering the hands-on way. I build full-stack web apps end to end — from intuitive UIs to solid backends — and I treat every project as a way to understand the layers underneath.
 
-- 🛠️ I build and ship projects as an **indie hacker**
+- 📚 Learning **software engineering** by building real projects
 - 🌱 Currently going deep on **systems and DevOps**
 - 🧠 I sharpen problem-solving with **DSA challenges** on [LeetCode](https://leetcode.com/u/mimha/)
 - 🤝 Open to collaborating on ambitious projects
@@ -99,30 +99,8 @@ An AI-based note-taking app that helps you capture, organize, and make sense of 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m-im-ha&theme=radical" alt="Profile Details" />
-</div>
-
-<div align="center">
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=m-im-ha&theme=radical" alt="Repos per Language" />
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=m-im-ha&theme=radical" alt="Most Commit Language" />
-</div>
-
-<div align="center">
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=m-im-ha&theme=radical" alt="Stats" />
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=m-im-ha&theme=radical&utcOffset=6" alt="Productive Time" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-im-ha&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 <div align="center">
 
-### ⚡ Building in public, one ship at a time.
+### ⚡ Always learning, always building.
 
 </div>
